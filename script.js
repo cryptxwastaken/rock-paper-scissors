@@ -18,4 +18,6 @@ function getHumanChoice() {
     }
 }
 
-console.log(getHumanChoice())
+// variables to keep track of the players score
+let humanScore = 0;
+let computerScore = 0;
